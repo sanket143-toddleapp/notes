@@ -9,7 +9,7 @@
 - [Student report template optimization](./student-progress-report-template-optimization/main.md)
 
 - [Releases]()
-  - [Tentativee](./releases/main.md)
+  - [Tentative](./releases/main.md)
   - [6th January 2025]()
     - [Criteria label edit \[Beta\]](./releases/6-January-2025/criteria-label-edit.md)
     - [Projects v2 \[Beta release for missing cn-north-1 school\]](./releases/6-January-2025/projects-v2-for-cn-north-1-school.md)
@@ -18,6 +18,7 @@
     - [Downloads enhancements \[Global\]](./releases/10-January-2025/downloads-enhancements/global-release.md)
     - [Projects v2 \[Global\]](./releases/10-January-2025/projects-v2/global-release.md)
     - [1 Pager Transcript \[Global\]](./releases/10-January-2025/1-pager-transcript/global-release.md)
+    - [RnP changes \[Push to prod\]](./releases/10-January-2025/rnp-changes/prod-deploy-release.md)
   - [17th January 2025]()
     - [Grading period locking \[Beta\]](./releases/17-January-2025/grading-period-locking/beta-release.md)
     - [Projects v2 evidences \[Global\]](./releases/17-January-2025/grading-period-locking/beta-release.md)
